@@ -1,0 +1,72 @@
+{
+  "food-trucks": [
+    {
+      "id": 1,
+      "ownerFirstName": "John",
+      "ownerLastName": "Doe",
+      "brandName": "Taco Truck",
+      "email": "truck1@email.com",
+      "address": "1234 Main St",
+      "websiteUrl": "http://www.tacotruck.com",
+      "menuUrl": "http://www.tacotruck.com/menu"
+    },
+    {
+      "id": 2,
+      "ownerFirstName": "First 2",
+      "ownerLastName": "Last 2",
+      "brandName": "Burger Truck",
+      "email": "truck2@email.com",
+      "address": "5678 Elm St",
+      "websiteUrl": "http://www.burgertruck.com",
+      "menuUrl": "http://www.burgertruck.com/menu"
+    },
+    {
+      "id": 3,
+      "ownerFirstName": "First 3",
+      "ownerLastName": "Last 3",
+      "brandName": "Pizza Truck",
+      "email": "truck3@email.com",
+      "address": "9101 Oak St",
+      "websiteUrl": "http://www.pizzatruck.com",
+      "menuUrl": "http://www.pizzatruck.com/menu"
+    },
+    {
+      "ownerFirstName": "Amner",
+      "ownerLastName": "Llamo",
+      "brandName": "Pizza",
+      "email": "amner9669@gmail.com",
+      "address": "calle1",
+      "websiteUrl": "sadasd",
+      "menuUrl": "asdasd",
+      "id": 4
+    },
+    {
+      "ownerFirstName": "Amner",
+      "ownerLastName": "Llamo",
+      "brandName": "Pizza1",
+      "email": "amner9669@gmail.com",
+      "address": "calle1",
+      "websiteUrl": "asdas",
+      "menuUrl": "asdas",
+      "id": 5
+    },
+    {
+      "ownerFirstName": "Amner",
+      "ownerLastName": "Llamo",
+      "brandName": "Pizza",
+      "email": "getmetis7521@outlook.com",
+      "address": "calle1",
+      "websiteUrl": "dsadsa",
+      "menuUrl": "asdsad",
+      "id": 6
+    },
+    {
+      "ownerFirstName": "Amner",
+      "ownerLastName": "Levi",
+      "brandName": "Pollo",
+      "email": "amner9669@gmail.com",
+      "address": "",
+      "id": 7
+    }
+  ]
+}

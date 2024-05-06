@@ -1,0 +1,17 @@
+.center-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; /* Alinea el contenido en la parte superior del contenedor */
+  margin-top: 1rem; /* Ajusta la distancia desde la parte superior según sea necesario */
+}
+
+.center-container mat-card {
+  width: 30%;
+  display: flex;
+  justify-content: center;
+
+}
+.center-container mat-card-title {
+  text-align: center;
+}
+
